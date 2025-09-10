@@ -21,7 +21,8 @@
 
 🧪 Preview
 
-<img width="946" height="831" alt="image" src="https://github.com/user-attachments/assets/56b38518-4cb6-444d-96aa-afc1e255edc8" />
+<img width="890" height="841" alt="image" src="https://github.com/user-attachments/assets/e5bace4e-0319-4015-b18b-b3b84d4de91e" />
+
 
 
 📦 Requirements
